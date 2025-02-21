@@ -1,6 +1,6 @@
 # A machine learning project for Phishing Website Detection using classification algorithms like Neural Networks, Support Vector Machines (SVM), and Random Forests.
 
-# # A machine learning model can be trained on a dataset of real and fake websites. Once trained, it can analyze a new website and predict whether it is real or a phishing site based on various features like URL structure, domain age, or suspicious keywords.
+## A machine learning model can be trained on a dataset of real and fake websites. Once trained, it can analyze a new website and predict whether it is real or a phishing site based on various features like URL structure, domain age, or suspicious keywords.
 # Project Breakdown:
 ## 1. Dataset Loading: Reads a phishing dataset (you need a CSV file with labeled phishing and legitimate websites).
 ## 2. Feature Engineering: Extracts important features related to domain, URL, page structure, and content.
