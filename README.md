@@ -9,4 +9,4 @@
 ## 5. Model Evaluation: Measures accuracy, classification reports, and confusion matrices for comparison.
 
 # To test the trained phishing detection model using a URL, we need to extract relevant features from the given URL and pass them to the model for prediction.
-#  Deploy the model using a Flask API to check URLs in real-time
+#  Deploy the model using a Flask API to check URLs in real-time 
